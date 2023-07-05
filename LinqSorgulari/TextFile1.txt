@@ -1,0 +1,7 @@
+﻿
+First=> 1.yi alır. Fakat ilk olan null sa hata verir.
+FirstorDefault => tarar ilkini getirir. Eğer ilki null ise hata vermez. Null olur.
+Single=>  Aradıgı deger tek olmalı. Yoksa hata verir. bulamazsa hata verir.
+SingleOrDefault =>  Tek sonuç ister. Birden fazlaysa hata verir. eğer bulamazsa  null döndürür.
+Last => sonuncuyu getirir. sonuncu yoksa çöker.
+LastOrDefault => sonuncuyu getirir. yoksa hata vermez null getirir.
